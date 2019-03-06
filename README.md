@@ -23,7 +23,7 @@
 - 多环境(.env)
 - typescript
 - cra 2.x
-- antd-mbile
+- antd-mobile
 - hooks
 
 
